@@ -1,5 +1,7 @@
-def main():
-    pass
-
+def main(stdsdr):
+    startscr(stdsdr)
+    stdsdr.getch()
 if __name__ == '__main__':
-    main()
+    import curses
+    from screens.startscr import startscr
+    curses.wrapper(main)
