@@ -2,11 +2,12 @@
 
 ## About
 
-**PomoMath** is a terminal based pomodoro timer that give you math problems during your breaks if you just crave math.
+**PomoMath** is a terminal based pomodoro timer that gives you math problems during your breaks for when you just crave math.
 
 ### Features
 
 - A pomodoro timer
+- MATH !!
 
 ## Credits
 
