@@ -1,6 +1,6 @@
 import sqlite3
 
-#All
+#All problem lists
 calc_1_list = [
     #Easy problems
     ("easy", "f(x) = 5x^3 Find f'(x)", "15x^2"),
